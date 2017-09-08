@@ -1,6 +1,6 @@
 NOTES:
 
-Progress so far is a working docker-compose set up for prometheus, mariadb, and wordpress.
+Progress so far is a working docker-compose set up for Prometheus, MariaDB, and WordPress.
 This can be started with the command:
     docker-compose up
 
